@@ -1,0 +1,1 @@
+g++ server.cpp socket.hpp  socket.cpp SocketManager.cpp -o server -lws2_32 -lole32
